@@ -5,3 +5,9 @@
 ###### Below is an image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` python
+name = 'Namisi'
+print(f'Hello, {name}')
+```
